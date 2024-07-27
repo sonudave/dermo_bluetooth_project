@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KEPLER</string>
+    <string name="chair_lock">CHAIR\n LOCK</string>
+    <string name="instrument">INSTRUMENT</string>
+    <string name="bluetooth_not_supported">Device does not support Bluetooth</string>
+    <string name="bluetooth_not_enabled">Bluetooth is not enabled turn on the bluetooth</string>
+    <string name="bluetooth_enabled">Bluetooth is enabled</string>
+    <string name="no_bluetooth">Bluetooth not available.</string>
+    <string name="connection_failed">Connection Failed.</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="message_send_error">Error sending message!</string>
+    <string name="you_sent">You</string>
+    <string name="devices">Bluetooth Devices</string>
+    <string name="label_on">On</string>
+    <string name="label_off">Off</string>
+
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">Bluetooth permission is required by this App. Please grant in next dialog.</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission was permanently denied. You have to enable permission \"%s\" in App settings.</string>
+
+</resources>
